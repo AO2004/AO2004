@@ -4,8 +4,11 @@
   <a href="https://linkedin.com/in/alaa-omran-391ba1251"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@kiloeducation360"><img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://mailto:omranalaa754@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-  <br /><br />
+</p>
+
+<br /><br />
+
+<p align="center">
   <img src="./collab.png" alt="Mood" width="200" />
 </p>
 <!---
