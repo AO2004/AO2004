@@ -1,9 +1,11 @@
-[<img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AO2004)
-[<img src="https://img.shields.io/badge/-INSTAGRAM-5A65F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/alaaomrran82)
-[<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alaa-omran-391ba1251)
-[<img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@kiloeducation360)
-[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:omranalaa754@gmail.com)
 <p align="center">
+  <a href="https://github.com/AO2004"><img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/alaaomrran82"><img src="https://img.shields.io/badge/-INSTAGRAM-5A65F2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alaa-omran-391ba1251"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@kiloeducation360"><img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://mailto:omranalaa754@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+  <br /><br />
   <img src="./collab.png" alt="Description" width="200"/>
 </p>
 <!---
