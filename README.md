@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@kiloeducation360)
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:omranalaa754@gmail.com)
 <p align="center">
-  <img src="./collab.png" alt="Description" width="500" hight="300" />
+  <img src="./collab.png" alt="Description" width="500" hight="100" />
 </p>
 <!---
 lolooppo/lolooppo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
