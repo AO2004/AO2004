@@ -6,7 +6,6 @@
   <a href="https://mailto:omranalaa754@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   <br /><br />
-  
   <img src="./collab.png" alt="Mood" width="200" />
 </p>
 <!---
